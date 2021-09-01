@@ -1,20 +1,22 @@
 # ExploratoryDataAnalysis_Haberman
-Analyzing data set to summarize their main characteristics, often with visual methods.
-The dataset used above is available here [data](https://www.kaggle.com/gilsousa/habermans-survival-data-set).
+Analyzing data set to summarize their main characteristics, often with visual methods.<br />
+The dataset used above is available here [data](https://www.kaggle.com/gilsousa/habermans-survival-data-set).<br />
 
 
-Goal: To understand correlation between features and class labels
+Goal: To understand correlation between features and class labels<br />
 
-### Probabilty Distribution of 'Survival' based on 'Age' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_1.png)
-###  Probabilty Distribution of 'Survival' based on 'Operated Year' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_2.png)
-###  Probabilty Distribution of 'Survival' based on 'axil_nodes' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_3.png)
-### Box plot 'Age'(https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_4.png)
-### Box Plot 'Operated Year' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_5.png)
-### Box Plot 'axil_nodes' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_6.png)
-### Violin plot for 'Age' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20(3).png)
-### Violin plot for 'Operated Year'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20(3).png)
-### Violin plot  for 'axil_nodes'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20(2).png)
-### Scatter plot explaining relationship between various fields present in data ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/2D-scatter-plot.png)
+### Probabilty Distribution of 'Survival' based on 'Age' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_1.png)<br />
+###  Probabilty Distribution of 'Survival' based on 'Operated Year' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_2.png)<br />
+###  Probabilty Distribution of 'Survival' based on 'axil_nodes' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_3.png)<br />
+### Box plot 'Age'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_4.png)<br />
+### Box Plot 'Operated Year' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_5.png)<br />
+### Box Plot 'axil_nodes' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_6.png)<br />
+### Violin plot for 'Age' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20(1).png)<br />
+### Violin plot for 'Operated Year'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download(2).png)<br />
+### Violin plot  for 'axil_nodes'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20.png)<br />
+### Scatter plot explaining relationship between various fields present in data ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/2D-scatter-plot.png)<br />
+
+### Heatmap explaining the correlation between features and class label.
 
 
 
