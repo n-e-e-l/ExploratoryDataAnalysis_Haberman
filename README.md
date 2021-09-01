@@ -13,7 +13,7 @@ Goal: To understand correlation between features and class labels<br />
 ### Box Plot 'axil_nodes' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/survive_6.png)<br />
 ### Violin plot for 'Age' ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20(1).png)<br />
 ### Violin plot for 'Operated Year'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20(2).png)<br />
-### Violin plot  for 'axil_nodes'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20.png)<br />
+### Violin plot  for 'axil_nodes'![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download.png)<br />
 ### Scatter plot explaining relationship between various fields present in data ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/2D-scatter-plot.png)<br />
 
 ### Heatmap explaining the correlation between features and class label. ![Alt text](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman/blob/master/img/download%20(3).png)<br />
